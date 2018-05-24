@@ -1,0 +1,1 @@
+db.getCollection('sweaca.login').find({username:"Sweatha"})
